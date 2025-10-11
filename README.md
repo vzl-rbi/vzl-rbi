@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rabibhujel04129@gmail.com**
 
-- 📄 Know about my experiences [https://bhujelwork.vercel.app/](https://bhujelwork.vercel.app/)
+- 📄 Know about my experiences ** Technical Writer — Entegra Sources Pvt. Ltd. (2021 – 2022)**, Software Development Intern — Aansh Tech, Dharan
 
 - ⚡ Fun fact **I am good in Gymnastics and swimming.**
 
