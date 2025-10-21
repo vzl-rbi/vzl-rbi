@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://nametai03.blogspot.com/](https://nametai03.blogspot.com/)
 
-- 📫 How to reach me **rabibhujel04129@gmail.com**
+- 📫 How to reach me **rabibhujel04129@gmail.com  or https://www.rabibhujel.com.np/**
 
 - ⚡ Fun fact **I am good in Gymnastics and swimming.**
 
