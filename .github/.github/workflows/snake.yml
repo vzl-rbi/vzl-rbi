@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # run every 12 hours (optional)
+  workflow_dispatch:        # allows manual run from Actions tab
+  push:
+    branches:
+      - main                # runs on pushes to main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake from contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "vzl-rbi"   # <- replace if different
+          outputs: dist/snake.svg       # generated file path inside workspace
+
+      - name: Create output folder (if missing)
+        run: |
+          mkdir -p dist
+          if [ ! -f dist/snake.svg ]; then
+            echo "<!-- no snake generated -->" > dist/snake.svg
+          fi
+
+      - name: Commit & push to 'output' branch (publish)
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+          directory: dist
