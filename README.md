@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Rabi Bhujel</h1>
-<h3 align="center">🚀 I'm passionate about building efficient, scalable, and user-friendly web applications. I love turning complex problems into simple, elegant solutions — both in code and design.</h3>
-
-- 🌱 I’m currently learning **Node.js to expand my backend skills.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vzl-rbi](https://github.com/vzl-rbi)
-
-- 📝 I regularly write articles on [https://nametai03.blogspot.com/](https://nametai03.blogspot.com/)
-
-- 📫 How to reach me **rabibhujel04129@gmail.com  or https://www.rabibhujel.com.np/**
-
-- ⚡ Fun fact **I am good in Gymnastics and swimming.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rabi-bhujel-89b057276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rabi-bhujel-89b057276/" height="30" width="40" /></a>
-<a href="https://fb.com/rabibhujel188@facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabibhujel188@facebook.com" height="30" width="40" /></a>
-<a href="https://discord.gg/soulreaper031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soulreaper031" height="30" width="40" /></a>
+<!-- Dynamic Waving Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F7D16A&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabi+Bhujel;Full-Stack+Developer;React+%7C+Laravel+%7C+Node.js+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vzl-rbi&show_icons=true&locale=en&layout=compact" alt="vzl-rbi" /></p>
+### 👨‍💻 About Me
+- 🌱 Learning: **Node.js & Backend Architecture**
+- 👨‍💻 Portfolio: **https://www.rabibhujel.com.np**
+- 📫 Email: **rabibhujel04129@gmail.com**
+- 🎯 Always curious, learning, and building.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vzl-rbi&" alt="vzl-rbi" /></p>
-⭐️ *Thanks for visiting my profile! Feel free to connect or collaborate!* 🚀
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,laravel,mysql,postgres,mongodb,sqlite,git,postman,figma" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/rabi-bhujel-89b057276/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://facebook.com/rabibhujel188"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://discord.com/users/soulreaper031"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats (Minimal View)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&hide_border=true&theme=gruvbox" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vzl-rbi&hide_border=true&theme=gruvbox" />
+</p>
+
+---
+
+<p align="center">⭐ Thanks for stopping by! Feel free to connect or collaborate 🚀</p>
