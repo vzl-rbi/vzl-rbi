@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,laravel,mysql,postgres,mongodb,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,laravel,mysql,postgres,mongodb,sqlite,git,postman,figma" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats (Minimal View)
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
@@ -39,4 +39,11 @@
 
 ---
 
-<p align="center">⭐ Thanks for stopping by! Feel free to connect or collaborate 🚀</p>
+### 🐍 Contribution Snake Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vzl-rbi/vzl-rbi/output/snake.svg" alt="snake graph" />
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting! Feel free to connect or collaborate 🚀</p>
