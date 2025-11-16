@@ -30,17 +30,19 @@
 ---
 ### 🎨 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzl-rbi&layout=compact&hide_border=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzl-rbi&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
-### 💹 Gthub streak
+
+### 💹 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vzl-rbi&hide_border=true&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vzl-rbi&hide_border=true&theme=tokyonight" />
 </p>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
+
 ---
 ### 🐍 Contribution Snake Graph
 <p align="center">
