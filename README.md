@@ -28,17 +28,20 @@
 </p>
 
 ---
+### 🎨 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzl-rbi&layout=compact&hide_border=true&theme=gruvbox" />
+</p>
+### 💹 Gthub streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vzl-rbi&hide_border=true&theme=gruvbox" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vzl-rbi&hide_border=true&theme=gruvbox" />
-</p>
-
 ---
-
 ### 🐍 Contribution Snake Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/vzl-rbi/vzl-rbi/output/snake.svg" alt="snake graph" />
