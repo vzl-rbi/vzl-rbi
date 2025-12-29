@@ -5,30 +5,24 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Learning: **Node.js & Backend Architecture**
-- 👨‍💻 Portfolio: **https://www.rabibhujel.com.np**
-- 📫 Email: **rabibhujel04129@gmail.com**
-- 🎯 Always curious, learning, and building.
 
+### ⚡ About Me
+- 🔭 I’m currently working on **Full-Stack Applications**
+- 🌱 Learning: **Advanced Backend Architecture & Microservices**
+- 🌐 Portfolio: [rabibhujel.com.np](https://www.rabibhujel.com.np)
+- 📫 Contact: [rabibhujel04129@gmail.com](mailto:rabibhujel04129@gmail.com)
+- 🎯 Goal: **Building scalable solutions for real-world problems.**
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,laravel,mysql,postgres,mongodb,sqlite,git,postman" />
-</p>
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /> |
+| **DevOps/Tools** | <img src="https://skillicons.dev/icons?i=git,postman,docker,github" /> |
 ---
-
-### 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/rabi-bhujel-89b057276/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://facebook.com/rabibhujel188"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://discord.com/users/soulreaper031"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-</p>
-
----
-
 ### 🎨 Most Used Languages
 <p align="center">
   <img
@@ -36,7 +30,7 @@
     alt="Top Languages"
   />
 </p>
-
+---
 ### 💹 GitHub Streak
 <p align="center">
   <img
@@ -54,11 +48,27 @@
 </p>
 
 ---
+
 ### 🐍 Contribution Snake Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/vzl-rbi/vzl-rbi/output/snake.svg" alt="snake graph" />
 </p>
 
 ---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rabi-bhujel-89b057276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/rabibhujel188"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.com/users/soulreaper031"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  🚀 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
 
 <p align="center">⭐ Thanks for visiting! Feel free to connect or collaborate 🚀</p>
