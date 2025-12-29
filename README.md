@@ -54,11 +54,6 @@
 </p>
 
 ---
-
-
-is there any problem with this ??
-make clean, workable above version
-
 ### 🐍 Contribution Snake Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/vzl-rbi/vzl-rbi/output/snake.svg" alt="snake graph" />
