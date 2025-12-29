@@ -22,7 +22,9 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /> |
 | **DevOps/Tools** | <img src="https://skillicons.dev/icons?i=git,postman,docker,github" /> |
+
 ---
+
 ### 🎨 Most Used Languages
 <p align="center">
   <img
@@ -31,6 +33,7 @@
   />
 </p>
 ---
+
 ### 💹 GitHub Streak
 <p align="center">
   <img
