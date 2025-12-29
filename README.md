@@ -28,32 +28,25 @@
 </p>
 
 ---
-
-## 🎨 Most Used Languages
+### 🎨 Most Used Languages
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzl-rbi&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzl-rbi&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-## 💹 GitHub Streak
+### 💹 GitHub Streak
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=vzl-rbi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vzl-rbi&hide_border=true&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vzl-rbi&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
+
+is there any problem with this ??
+make clean, workable above version
 
 ### 🐍 Contribution Snake Graph
 <p align="center">
